@@ -1,4 +1,4 @@
-# CoinFLEXv2
+# CoinFLEX v2
 CoinFLEX V2 API modules, which can be used as a template or guideline to create bots or collect data.
 
 This is a sample market making bot to be used on CoinFLEX, it's free to use and edit as you wish for your own trading needs. 
@@ -19,5 +19,5 @@ Myself, and CoinFLEX are not responsible for any losses incurred when using this
 
 These bots will likely lose you money, they are intended to show the basics of market-making, outline a potential trading algo structure, and provide examples of how to interact with CoinFLEX's Rest and WebSocket endpoints.
 
-Compatibility:
+# compatibility 
 This module supports Python 3.5 and later.
